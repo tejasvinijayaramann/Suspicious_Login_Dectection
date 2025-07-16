@@ -33,3 +33,9 @@ This beginner-friendly cybersecurity project explores how to detect suspicious l
 - Capture traffic from a real login page or FTP simulation
 - Apply filters like `http.request.method == "POST"` or `ftp.request.command == "USER"`
 - Expand analysis to include suspicious behavior and risk indicators
+
+
+
+##🔗 Connect with Me
+I'm Tejasvini, a cybersecurity learner passionate about digital forensics and compliance.
+Let’s connect on LinkedIn or check out more of my work on GitHub!
