@@ -1,0 +1,14 @@
+Project: Suspicious Login Detection
+File: Digital_Investigation_Task.pcapng
+Tools Used: Wireshark
+
+Filter Applied: TCP traffic (loopback 127.0.0.1)
+Observations:
+- All packets are TCP between 127.0.0.1 (local traffic)
+- Viewed raw data in TCP stream (hex and ASCII)
+- No login credentials or external IPs detected
+- Practiced using Wireshark filters and stream reconstruction
+
+Next Steps:
+- Capture traffic from a real login page or FTP simulation
+- Apply filters like http.request.method == "POST" or ftp.request.command == "USER"
